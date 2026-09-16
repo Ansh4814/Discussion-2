@@ -1,4 +1,4 @@
-const MOTTO: &str = "Measure twice push once";
+
 /// Your crew's name. Both of you are going to change this line.
 const CREW_NAME: &str = "the unnamed crew";
 
